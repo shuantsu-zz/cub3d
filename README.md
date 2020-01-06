@@ -1,6 +1,7 @@
 # cub3d
+
 Um cubo 3d com canvas
 
-![cub3d](cube3d.png)
+<kbd>![Thumbnail](thumb.png)</kbd>
 
 https://shuantsu.github.io/cub3d/
